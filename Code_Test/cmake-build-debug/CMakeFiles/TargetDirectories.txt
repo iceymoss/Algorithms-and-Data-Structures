@@ -1,0 +1,3 @@
+/Users/feng/CLionProjects/Code_Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/feng/CLionProjects/Code_Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/feng/CLionProjects/Code_Test/cmake-build-debug/CMakeFiles/Code_Test.dir

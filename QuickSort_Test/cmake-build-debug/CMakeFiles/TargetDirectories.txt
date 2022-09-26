@@ -1,0 +1,3 @@
+/Users/feng/CLionProjects/QuickSort_Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/feng/CLionProjects/QuickSort_Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/feng/CLionProjects/QuickSort_Test/cmake-build-debug/CMakeFiles/QuickSort_Test.dir

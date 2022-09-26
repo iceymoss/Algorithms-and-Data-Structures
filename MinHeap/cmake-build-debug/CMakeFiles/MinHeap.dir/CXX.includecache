@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/feng/CLionProjects/MinHeap/main.cpp
+iostream
+-
+string
+-
+algorithm
+-
+ctime
+-
+cassert
+-
+

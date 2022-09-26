@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="QuickSort_Test" targetName="QuickSort_Test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1327ff81-a6c1-42a0-a94b-88fa3a22ee68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1q8PXqz5bZn2opdK54iyo99ggFU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="QuickSort_Test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QuickSort_Test" TARGET_NAME="QuickSort_Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QuickSort_Test" RUN_TARGET_NAME="QuickSort_Test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1327ff81-a6c1-42a0-a94b-88fa3a22ee68" name="Default Changelist" comment="" />
+      <created>1616458286947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616458286947</updated>
+      <workItem from="1616458288185" duration="24000" />
+      <workItem from="1616458316861" duration="2960000" />
+      <workItem from="1617097850723" duration="183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1617098033524">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616506579192" />
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.25.1440.794@0.25.1440.794" timestamp="1617098033524" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1617098033523">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1616506579191" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.25.1440.794@0.25.1440.794" timestamp="1617098033523" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1617098033523">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1616506579191" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.25.1440.794@0.25.1440.794" timestamp="1617098033523" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1617098033523">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1616506579192" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.25.1440.794@0.25.1440.794" timestamp="1617098033523" />
+    <state width="1398" height="250" key="GridCell.Tab.1.bottom" timestamp="1617098033525">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.1.bottom/0.25.1440.794@0.25.1440.794" timestamp="1617098033525" />
+    <state width="1398" height="250" key="GridCell.Tab.1.center" timestamp="1617098033524">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.1.center/0.25.1440.794@0.25.1440.794" timestamp="1617098033524" />
+    <state width="1398" height="250" key="GridCell.Tab.1.left" timestamp="1617098033524">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.1.left/0.25.1440.794@0.25.1440.794" timestamp="1617098033524" />
+    <state width="1398" height="250" key="GridCell.Tab.1.right" timestamp="1617098033524">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.1.right/0.25.1440.794@0.25.1440.794" timestamp="1617098033524" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

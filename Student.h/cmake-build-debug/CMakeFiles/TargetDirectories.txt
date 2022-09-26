@@ -1,0 +1,3 @@
+/Users/feng/CLionProjects/Student.h/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/feng/CLionProjects/Student.h/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/feng/CLionProjects/Student.h/cmake-build-debug/CMakeFiles/Student_h.dir

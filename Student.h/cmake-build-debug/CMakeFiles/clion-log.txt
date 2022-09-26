@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/feng/CLionProjects/student.h
+CMake Error at CMakeLists.txt:7:
+  Parse error.  Expected "(", got identifier with text "namespace".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/feng/CLionProjects/student.h/cmake-build-debug/CMakeFiles/CMakeOutput.log".

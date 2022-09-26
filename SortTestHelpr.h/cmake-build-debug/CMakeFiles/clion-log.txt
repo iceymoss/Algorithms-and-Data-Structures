@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/feng/CLionProjects/SortTestHelpr.h
+-- Configuring done
+CMake Error: Cannot determine link language for target "SortTestHelpr_h".
+CMake Error: CMake can not determine linker language for target: SortTestHelpr_h
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

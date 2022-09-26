@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/feng/CLionProjects/Heapify/Heap.h
+iostream
+-
+
+/Users/feng/CLionProjects/Heapify/SortTestHeper.h
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cassert
+-
+
+/Users/feng/CLionProjects/Heapify/main.cpp
+iostream
+-
+algorithm
+-
+Heap.h
+/Users/feng/CLionProjects/Heapify/Heap.h
+SortTestHeper.h
+/Users/feng/CLionProjects/Heapify/SortTestHeper.h
+
